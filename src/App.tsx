@@ -18,8 +18,8 @@ const App = () => {
 
   return (
     <>
-    <h1>Superbowl LXVIII</h1>
-
+    <h1>Superb Owl</h1>
+    <h2>Superbowl LXVIII</h2>
       <div>
   
         <a href="https://vitejs.dev" target="_blank">
@@ -32,7 +32,7 @@ const App = () => {
           <img src={sanFranLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+
       <div className="card">
         {/* <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

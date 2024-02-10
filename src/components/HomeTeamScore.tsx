@@ -7,6 +7,7 @@ const team = {
 	return(
 		<div className="homeTeam">
 			<h1>{team.name}</h1>
+			<h2>00</h2>
 		</div>
 
 	)
