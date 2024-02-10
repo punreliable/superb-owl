@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
 import footballLogo from './assets/football-tall-white.svg'
 import chiefsLogo from './assets/logo-chiefs.svg'
 import sanFranLogo from './assets/logo-49ers.svg'
 import './App.scss'
-import Scoreboard from './components/Scoreboard'
+// import Scoreboard from './components/Scoreboard'
 
 
 
@@ -13,7 +13,7 @@ const App = () => {
 
 
 
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
 
   return (
