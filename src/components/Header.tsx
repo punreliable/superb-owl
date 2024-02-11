@@ -1,11 +1,12 @@
 import styled from 'styled-components'
+import getCurrentYear from '../services/getCurrentYear'
 
 const Header = () => {
 
 	return(
 		<header>
 			<HeaderHeadline className="header">
-				Superb Owl
+				SuperbOwl {getCurrentYear()}
 			</HeaderHeadline>
 		</header>
 	)

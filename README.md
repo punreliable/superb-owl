@@ -1,5 +1,16 @@
-# React + TypeScript + Vite
+# Superb Owl
+## v0.1.0
+---
 
+### Description
+---
+
+Superb Owl watches the scores.
+
+### Dependencies
+---
+
+*Vite.js*
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

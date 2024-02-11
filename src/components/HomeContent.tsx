@@ -26,12 +26,13 @@ const HomeContent = () => {
       </div>
 
       <div className="card">
-		<p>Punreliably powered by Vercel and Vite.</p>
+		    <p>Punreliably powered by Vercel and Vite.</p>
       </div>
-	  <p className="read-the-docs">
-		<a href="https://www.buymeacoffee.com/punreliable" target="_blank">
-        	Click here to buy me a coffee.
-		</a>
+
+      <p className="read-the-docs">
+        <a href="https://www.buymeacoffee.com/punreliable" target="_blank">
+              Click here to buy me a coffee.
+        </a>
       </p>
     </>
   )
