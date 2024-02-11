@@ -1,9 +1,11 @@
 import HomeTeamScore from "./HomeTeamScore"
+import AwayTeamScore from "./AwayTeamScore"
+
 const Scoreboard = () => {
 return(
 <div className="scoreboard">
-<h1>Scoreboard</h1>
 <HomeTeamScore />
+<AwayTeamScore />
 </div>)
 }
 
