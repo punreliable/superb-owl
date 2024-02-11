@@ -1,5 +1,6 @@
 import HomeTeamScore from "./HomeTeamScore"
 import AwayTeamScore from "./AwayTeamScore"
+import './Scoreboard.scss'
 
 const Scoreboard = () => {
 return(
